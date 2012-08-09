@@ -23,8 +23,9 @@ def euler007(n)
 			end
 
 			prime.push(num[i])
-			puts ("#{prime.size}, #{num[i]}")
+			#puts ("#{prime.size}, #{num[i]}")
 		end
+		p prime[prime.size-1] if prime.size >= n
 		break if prime.size >= n
 	end
 end
