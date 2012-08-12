@@ -1,1 +1,4 @@
-This is for http://odz.sakura.ne.jp/projecteuler/
+Problem
+ http://odz.sakura.ne.jp/projecteuler/
+Challenge
+ https://projecteuler.net/
